@@ -1,8 +1,8 @@
 <h6 align="center">views<br><img src ="https://profile-counter.glitch.me/sudeepjhs/count.svg"></h6>
 <h1 align="center">Hi 👋, I'm Sudeep Agarwal</h1>
-<h3 align="center">I am a Final year B.Tech computer science student from Sagar Institute of science and technology, Bhopal, M.P, India.
-<br>I like to contribute to opensources, and ready to learn something new always.</h3>
-<h4 align="center">I am self motivated, imaginative person able to organise and prioritise works effectively, contributing to positive and productive environments.</h3>
+<h3 align="center">I am a dedicated software developer with over 2 years of experience in JavaScript, ReactJS, Node.js, and other languages.  
+<br>My proficiency in writing efficient code and developing innovative applications has helped me finish projects on time and under budget.</h3>
+<h4 align="center">Get in touch with me if you're interested in discussing how my skillset could benefit you and your team.</h3>
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=sudeepjhs&label=Profile%20views&color=0e75b6&style=flat" alt="sudeepjhs" /> </p>-->
 
